@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+requests
+python-magic
+PyPDF2
+-e
